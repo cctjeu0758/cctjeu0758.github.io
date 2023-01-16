@@ -4,7 +4,7 @@ Taku Averilla
 
 ![alt text](https://i.pinimg.com/564x/be/f2/56/bef256450b203c269c3d536e26b93251.jpg)
 
-I need to highlight these ==Hope to see you again==.
+==Hope to see you again==.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4WaIJvK7hXVRhPljOOXY4J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
