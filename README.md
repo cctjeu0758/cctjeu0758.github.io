@@ -1,10 +1,12 @@
 # cctjeu0758.github.io
 Taku Averilla
+LG - Arrowsmith
 
 
-![alt text](https://i.pinimg.com/564x/be/f2/56/bef256450b203c269c3d536e26b93251.jpg)
 
-==Hope to see you again==.
+![alt text](https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/323168322_588204303147430_6451055676139979207_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGl3IGPf-pquRnUAwKp2IIz2DipPdf3QcPYOKk91_dBw7zLqQHZ7zbwFM0eNQkIOpwbCg5Vb7H0wwL0k7XEbWFZ&_nc_ohc=nxIKi5RaZskAX-SHnz_&_nc_oc=AQlv0vTAk1k3Xrf9gOaRYmouORUOU27EIjLPK5LGybbvL1kdY_0xAGVtOYe8hNjgFfE&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdR3w-CGCaWdIa3bblIwDwV8jocFxQUerB7buABcVF-Qqg&oe=63ECCF22)
+
+### Sa mundo na pwedeng tayo lang ang nakakaalam.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4WaIJvK7hXVRhPljOOXY4J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
