@@ -8,8 +8,6 @@ LG - Arrowsmith
 
 ### Sa mundo na pwedeng tayo lang ang nakakaalam.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4WaIJvK7hXVRhPljOOXY4J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ## Cassette Tapes
 
 - Tape 1
@@ -27,6 +25,9 @@ LG - Arrowsmith
 
 ### Tagal din kitang hinintay.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4WaIJvK7hXVRhPljOOXY4J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+1. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4WaIJvK7hXVRhPljOOXY4J?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+2. <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1L0OF925rOXpK4f75Db1Va?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 
